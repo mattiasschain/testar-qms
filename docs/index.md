@@ -4,8 +4,15 @@
   <summary><strong>Visa relevant lagtext / tolkningsstöd</strong></summary>
 
   <p><strong>Källa:</strong> <a href="...">Länk</a></p>
-  <p><strong>Kort tolkning:</strong> ...</p>
-  <p><strong>Evidens:</strong> ...</p>
+  <p><strong>Kort tolkning:</strong> Medicinska informationssystem ska uppnå den prestanda som tillverkaren
+avsett och vara designade och utvecklade, samt levereras, på ett sådant sätt att
+de under normala användningsförhållanden är lämpliga för sitt avsedda
+ändamål. De ska vara säkra och effektiva och får inte äventyra patienternas
+kliniska tillstånd eller säkerhet, eller säkerhet och hälsa för användarna eller i
+förekommande fall andra personer, och alla risker i samband med deras
+användning ska vara acceptabla när riskerna vägs mot fördelarna för patienten
+och vara förenliga med en hög skyddsnivå för hälsa och säkerhet, med hänsyn
+till det allmänt erkända tekniska utvecklingsstadiet. </p>
 </details>
 
 <hr>
