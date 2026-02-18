@@ -10,7 +10,6 @@ nav:
   - Loops:
       - Post-release surveillance: loops/surveillance.md
 markdown_extensions:
-  - pymdownx.details
   - admonition
   - attr_list
   - def_list
