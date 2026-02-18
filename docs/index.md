@@ -8,3 +8,9 @@
 **Evidens:** hänvisa till … (t.ex. V&V-sammanfattning, riskanalys, post-release monitoring)
 
 </details>
+
+
+??? note "Visa relevant lagtext / tolkningsstöd"
+    **Källa:** [Länk till NMI-bestämmelsen]  
+    **Kort tolkning för Hälsa Hemma:** … (2–5 meningar)  
+    **Evidens:** hänvisa till … (t.ex. V&V-sammanfattning, riskanalys, post-release monitoring)
