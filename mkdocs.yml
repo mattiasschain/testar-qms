@@ -9,9 +9,6 @@ nav:
       - 2A Technical File (Non-MDR): checklists/2A-technical-file-non-mdr.md
   - Loops:
       - Post-release surveillance: loops/surveillance.md
-      - Incidents & deviations: loops/incidents.md
-      - Management review: loops/management-review.md
-      - Training: loops/training.md
 markdown_extensions:
   - admonition
   - attr_list
